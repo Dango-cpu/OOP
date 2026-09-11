@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module ShippingBusiness {
+	requires junit;
+}
